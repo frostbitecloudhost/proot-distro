@@ -120,9 +120,6 @@ vncstart
 sleep 4
 DISPLAY=:1 firefox &
 sleep 10
-pkill -f firefox
-vncstop
-sleep 4
 exit
 echo
 EOF

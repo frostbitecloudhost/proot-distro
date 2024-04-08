@@ -141,7 +141,6 @@ echo
 echo "vncstart  -  To start vncserver, Execute inside ubuntu"
 echo
 echo "vncstop  -  To stop vncserver, Execute inside ubuntu"${W}
-rm -rf ~/install.sh
 }
 
 banner
